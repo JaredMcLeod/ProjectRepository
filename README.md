@@ -13,10 +13,16 @@ Jupyter Notebook Format: Easy to follow with code, outputs, and explanations pro
 Installation
 
 Clone the repository or download the zip file.
+
+
 Install required Python libraries:
+
 bash
+
 Copy code
+
 pip install textblob pandas
+
 Open the notebook file (Sentiment Analysis and Preprocessing Text.ipynb) using Jupyter Notebook or JupyterLab.
 Usage
 Load the dataset provided in the notebook.
@@ -24,4 +30,5 @@ Follow the steps to preprocess the text and perform sentiment analysis.
 Analyze the sentiment scores and use the results for further tasks such as classification or trend analysis.
 
 License
-This project is licensed under the MIT License.
+
+N/A
