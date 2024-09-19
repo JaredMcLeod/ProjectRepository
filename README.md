@@ -22,11 +22,7 @@ Follow the platform-specific installation instructions provided in the respectiv
 
 Usage
 
-Load your text data using the demo script provided in the demo_data folder.
-
-Run the tool to highlight text and detect transliterations.
-
-Review the highlighted sections in the output for further analysis.
+Load your text data using the demo script provided in the demo_data folder. Run the tool to highlight text and detect transliterations. Review the highlighted sections in the output for further analysis.
 
 License
 
