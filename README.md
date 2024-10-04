@@ -1,15 +1,15 @@
-Hi! I am Jared McLeod, a data student with a passion for leveraging data science and machine learning to solve real-world problems. 
-With expertise in predictive modeling, data visualization, and statistical analysis, I specialize in uncovering insights that drive decision-making and business growth.
+Predicting House Prices Based on Various Factors
 
-I have experience working with a wide range of tools and technologies, including:
+Description: In this project, I built a machine learning model to predict house prices based on features such as location, size, number of bedrooms, and market conditions. The model uses regression techniques to forecast housing prices and provide insights for real estate investors and homeowners.
 
-Python (pandas & NumPy)
-R (ggplot2, ggraph, & tidyr)
-Power BI
-Tableau
-One of my recent projects involves Predicting House Prices Based on Various Factors, where I applied regression techniques to forecast housing prices based on key features 
-like location, size, and market trends. This project showcases my ability to work with complex datasets and deliver actionable insights for 
-industries such as real estate and financial modeling.
+Technologies Used: Python (pandas, NumPy), Matplotlib, Seaborn
 
-I am continuously expanding my skill set, currently focusing on machine learning, deep learning, and advanced data analytics to help businesses solve their most pressing challenges. 
-I am excited to apply my knowledge and experience to make an impact in the field of data science.
+Key Takeaways:
+Cleaned and processed a large dataset for predictive modeling.
+Applied feature engineering to improve model accuracy.
+Visualized trends and patterns in housing prices.
+Customer Churn Prediction for Subscription-Based Services
+
+Description: This project aimed to predict customer churn in a subscription-based service using classification models. By identifying key factors contributing to customer churn, the project provided actionable insights to reduce churn and increase customer retention.
+
+Technologies Used: R (caret, ggplot2), Python (scikit-learn), Power BI
