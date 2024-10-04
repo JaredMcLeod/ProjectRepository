@@ -13,3 +13,5 @@ industries such as real estate and financial modeling.
 
 I am continuously expanding my skill set, currently focusing on machine learning, deep learning, and advanced data analytics to help businesses solve their most pressing challenges. 
 I am excited to apply my knowledge and experience to make an impact in the field of data science.
+
+For contact information, message me via email at jaredkmcleod@gmail.com
